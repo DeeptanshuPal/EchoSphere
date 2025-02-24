@@ -10,7 +10,7 @@ This app was developed for the Swift Student Challenge 2025 and has been submitt
 
 ## Overview
 
-**EchoSphere** features an engaging demo and interactive playground where users can:
+**EchoSphere**'s interactive audio playground:
 
 ![EchoSphere-Demo1](https://github.com/user-attachments/assets/e1739bfd-948e-4f40-8e63-1bfe96d75dcf)
 
