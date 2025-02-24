@@ -12,11 +12,11 @@ This app was developed for the Swift Student Challenge 2025 and is being submitt
 
 **EchoSphere** features an engaging demo and interactive playground where users can:
 
-![Simulator Screenshot - iPad Pro 13-inch (M4) - 1](https://github.com/user-attachments/assets/5a25a223-e8c9-4f90-b9cc-4b5d72b6807b)
+![EchoSphere-Demo1](https://github.com/user-attachments/assets/e1739bfd-948e-4f40-8e63-1bfe96d75dcf)
 
-![Simulator Screenshot - iPad Pro 13-inch (M4) - 2](https://github.com/user-attachments/assets/8cdc26d2-cd34-46fb-82d8-97614f43c410)
+![EchoSphere-Demo2](https://github.com/user-attachments/assets/56f6c227-9bb4-486e-aa43-69ea24fe5613)
 
-![Simulator Screenshot - iPad Pro 13-inch (M4) - 3](https://github.com/user-attachments/assets/ba85a95f-d77c-46ec-9b58-a8e4d8f16d43)
+![EchoSphere-Demo3](https://github.com/user-attachments/assets/e9d6b4cd-0125-4056-8a15-d9949f4df09a)
 
 ## Technologies
 
