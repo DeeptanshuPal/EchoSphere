@@ -6,7 +6,7 @@
 
 ### Swift Student Challenge
 
-This app was developed for the Swift Student Challenge 2025 and is being submitted for consideration.
+This app was developed for the Swift Student Challenge 2025 and has been submitted for consideration.
 
 ## Overview
 
